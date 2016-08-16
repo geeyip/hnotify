@@ -1,0 +1,11 @@
+{
+  "name": "hnotify",
+  "version": "1.0.0",
+  "description": "Nice notifications for nw.js",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^0.9.0",
+    "lodash": "^2.4.1",
+    "promise": "^6.0.1"
+  }
+}
