@@ -1,6 +1,6 @@
 {
   "name": "hnotify",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Nice notifications for nw.js",
   "main": "index.js",
   "dependencies": {
