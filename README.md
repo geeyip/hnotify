@@ -13,6 +13,10 @@ nwNotify.setConfig({
 });
 
 nwNotify.notify({ title: '通知', text: '内容', image: 'who.png', onClickFunc: function(){
-    alert(1);
+   //...
+   nwNotify.closeAll();
 }});
 ```
+
+## 效果
+![](https://raw.githubusercontent.com/geeyip/techMD/master/pic/p8.png)
